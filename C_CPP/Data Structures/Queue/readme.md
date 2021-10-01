@@ -1,1 +1,0 @@
-[Implementation of queue using stack](./implementation_of_queue_using_stack.md)

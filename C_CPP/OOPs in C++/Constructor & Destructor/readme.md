@@ -2,4 +2,3 @@
 
 - Types Of Constructors:
     - [Default Constructor](default-constructor.md)
-    - [Parametrized Constructor](parametrized-constructor.md)
